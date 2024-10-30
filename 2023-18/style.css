@@ -40,7 +40,7 @@
   }
 }
 
-@media (max-width: 1200px) {
+@media only screen and (orientation: portrait) and (max-width: 1200px) {
   header {
     padding: 5px 10px;
   }
