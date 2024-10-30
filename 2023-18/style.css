@@ -101,6 +101,10 @@
   .skill + .skill {
     margin-top: 30px;
   }
+
+  footer {
+  flex-direction: column;
+  }
 }
 
 * {
