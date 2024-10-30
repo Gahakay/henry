@@ -1,4 +1,4 @@
-@media (min-width: 800px) {
+@media (min-width: 1200px) {
   header {
     padding: 20px;
   }
@@ -40,7 +40,7 @@
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
   header {
     padding: 5px 10px;
   }
